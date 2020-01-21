@@ -1,0 +1,2 @@
+BPlusTreemake:
+	javac bplustree.java
